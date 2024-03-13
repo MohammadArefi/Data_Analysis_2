@@ -4,7 +4,7 @@ This is a project for analyzing stock market data.
 you can get gkp_monitor files from this link:
 https://www.dropbox.com/scl/fo/q3rkceo0zdh03xz2pvera/h?rlkey=4h6f3861bjkkdkqsl2demhwdz&e=1&dl=0
 
-or download seprately; 
+or download seprately;   
 you can get gkp_monitor file from bottom link:
 https://www.dropbox.com/scl/fi/s5f18dexkl38qqtvsqxls/gkp_monitor.csv?rlkey=6sb3rv2kvgonmkuhqoeiqn348&dl=0
 
